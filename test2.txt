@@ -1,4 +1,4 @@
 test fetch
 test pull
 test merge
-conflict
+feature conflict
